@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_86d0b3212cfb48c77f1dd3e7444b8de15e328e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bbec9591c92be3bd6c8e75f41535caf0d5940837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_1431abea62dc12ef7adecac7a2e50c968c765716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="70107a0c915888189c0f338c918d66db853d64c1">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3ff40fe27b9a264fe61cac75a74f9889f711c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2649ddc04a99a12fd85f7d1e36585d47891bf072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_e9e9ec724c2b0da35af08dd6d428a1d300a47d41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e15b62ca4e23467290b72c6b40029443d05cf93d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp3/1.3.1/c596b3b33b5a92107bb70544bb5ee35f597bc6d8/stetho-okhttp3-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c596b3b33b5a92107bb70544bb5ee35f597bc6d8">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-okhttp3-1.3.1_24d50171ccc78e885de05146df2afd49bf469d03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-1.3.1_1390f9d0b5907a0f30b7098ecfebe7971b511118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.1_887b4457bf845ec17dedb9e9023c0ced1a608ce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_e816800b4b8951ca68204d4a01c046df58472c48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_08356236df4f80b62697908f63cbc5129becc131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a27f12a25f9fa59e70cb5eccd6e2e1315dd80456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9f24b4c37602d55d7d9f69d4db780fd189c508e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e74a47ee236a1e18ab24c9e63864beb00926a52b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_b21139b73677613b96f5e68a9e93d784b05ae8fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_61a4bfa3e7de84d259b2f661cd9fd4cce6c5e6bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0f864782513c1fe1c3b46a2568ae2522b99f17f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5b2ab0a43f436ab3e141937e518fbbc1a62a1909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2d4ab01f1e6c81c45839648a772c1a2035781b4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_313f395dfe567f5cf10480aefebad251f2fc9fac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8fbb20b1f148eeb07431cb3986024a95206f5308">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e1eccad903e5e97366537a014b365cf8daa8ac5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_e28ec3db44ccacc9b597769cd061b6e7d25d43ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_627521b036057a1653f94547f6a35f057a6a711e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Saki/AndroidStudioProjects/MyTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_02ecc6e2d5af4c994b61ab653d1653069fe8dfef/classes.dex" />
+    </item>
+
+</items>

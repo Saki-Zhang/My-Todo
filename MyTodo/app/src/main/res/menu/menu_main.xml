@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.saki.mytodo.MainActivity">
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="100"
+        android:title="Add"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_add" />
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:title="Clear"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_delete" />
+    <item
+        android:id="@+id/action_sort"
+        android:orderInCategory="100"
+        android:title="Sort"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_sort_by_size">
+        <menu >
+            <item
+                android:id="@+id/sort_by_create_time"
+                android:title="By Created Time"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/sort_by_level"
+                android:title="By Level"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/sort_by_default"
+                android:title="By Default"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+</menu>
